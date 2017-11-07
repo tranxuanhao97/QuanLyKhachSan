@@ -1,4 +1,4 @@
-# QuanLyKhachSan
+# Quản lý khách sạn
 
 Cùng với nhiều hình thức dịch vụ đi kèm, đòi hỏi phải có sự quản lý mô hình khách sạn một cách hợp lý để phục vụ khách hàng cũng như quản lý nhân viên một cách tốt nhất.
 Do đó, công việc quản lý hoạt động kinh doanh của khách sạn ngày càng phức tạp hơn. Hơn nữa, công tác quản lý không chỉ đơn thuần là quản lý về lưu lược khách đến với khách sạn, sử dụng các loại hình dịch vụ mà công việc quản lý còn phải đáp ứng nhu cầu về việc báo cáo các loại hình doanh thu, tình hình kinh doanh của khách sạn để từ đó có thể đưa ra định hướng và lập kế hoạch phát triển cho công việc kinh doanh đó. 
